@@ -26,3 +26,5 @@
 
 ## 🎯 42 Projects
 Check out my 42 school projects below! ⬇️
+
+Hope too talk to you soon.
